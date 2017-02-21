@@ -13,5 +13,7 @@
 
 int main(int args, char *argv[])
 {
+    printf("hello\n");
+
 	return 0;
 }
